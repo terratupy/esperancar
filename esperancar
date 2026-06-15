@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://itunes.com" xmlns:content="http://purl.org">
+  <channel>
+    <title>Esperançar — Família TerraTupy</title>
+    <description>Álbum exclusivo Esperançar da Família TerraTupy. Conteúdo protegido e restrito para apoiadores.</description>
+    <link>https://pub-b92b8c6e7c4d4c40a3bc206b40c30d14.r2.dev/Esperan%C3%A7ar/</link>
+    <language>pt-br</language>
+    <copyright>© Família TerraTupy</copyright>
+    <itunes:author>Família TerraTupy</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://pub-b92b8c6e7c4d4c40a3bc206b40c30d14.r2.dev/Esperan%C3%A7ar/capa.png" />
+    <itunes:category text="Music" />
+    <itunes:explicit>false</itunes:explicit>
+
+    <!-- Faixa 1 -->
+    <item>
+      <title>Sol brilhante</title>
+      <description>Faixa 1 do álbum Esperançar</description>
+      <enclosure url="https://pub-b92b8c6e7c4d4c40a3bc206b40c30d14.r2.dev/Esperan%C3%A7ar/1-%20Sol%20brilhante.mp3" length="5000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">terratupy-esperancar-faixa-1</guid>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+    </item>
+
+    <!-- Faixa 2 -->
+    <item>
+      <title>Alumeia</title>
+      <description>Faixa 2 do álbum Esperançar</description>
+      <enclosure url="https://pub-b92b8c6e7c4d4c40a3bc206b40c30d14.r2.dev/Esperan%C3%A7ar/2-%20Alumeia.mp3" length="5000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">terratupy-esperancar-faixa-2</guid>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+    </item>
+
+    <!-- Faixa 3 -->
+    <item>
+      <title>Valsa pequenina</title>
+      <description>Faixa 3 do álbum Esperançar</description>
+      <enclosure url="https://pub-b92b8c6e7c4d4c40a3bc206b40c30d14.r2.dev/Esperan%C3%A7ar/3-%20Valsa%20pequenina.mp3" length="5000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">terratupy-esperancar-faixa-3</guid>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+    </item>
+
+    <!-- Faixa 4 -->
+    <item>
+      <title>Quanto pode uma menina?</title>
+      <description>Faixa 4 do álbum Esperançar</description>
+      <enclosure url="https://pub-b92b8c6e7c4d4c40a3bc206b40c30d14.r2.dev/Esperan%C3%A7ar/4-%20Quanto%20pode%20uma%20menina%3F.mp3" length="5000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">terratupy-esperancar-faixa-4</guid>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+    </item>
+
+    <!-- Faixa 5 -->
+    <item>
+      <title>Marianinha</title>
+      <description>Faixa 5 do álbum Esperançar</description>
+      <enclosure url="https://pub-b92b8c6e7c4d4c40a3bc206b40c30d14.r2.dev/Esperan%C3%A7ar/5-%20Marianinha.mp3" length="5000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">terratupy-esperancar-faixa-5</guid>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+    </item>
+
+    <!-- Faixa 6 -->
+    <item>
+      <title>Bem-te-vi</title>
+      <description>Faixa 6 do álbum Esperançar</description>
+      <enclosure url="https://pub-b92b8c6e7c4d4c40a3bc206b40c30d14.r2.dev/Esperan%C3%A7ar/6-%20Bem-te-vi.mp3" length="5000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">terratupy-esperancar-faixa-6</guid>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>6</itunes:episode>
+    </item>
+
+    <!-- Faixa 7 -->
+    <item>
+      <title>Luzeiro</title>
+      <description>Faixa 7 do álbum Esperançar</description>
+      <enclosure url="https://pub-b92b8c6e7c4d4c40a3bc206b40c30d14.r2.dev/Esperan%C3%A7ar/7-%20Luzeiro.mp3" length="5000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">terratupy-esperancar-faixa-7</guid>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>7</itunes:episode>
+    </item>
+
+    <!-- Faixa 8 -->
+    <item>
+      <title>Viajando do Oriente</title>
+      <description>Faixa 8 do álbum Esperançar</description>
+      <enclosure url="https://pub-b92b8c6e7c4d4c40a3bc206b40c30d14.r2.dev/Esperan%C3%A7ar/8-%20Viajando%20do%20Oriente.mp3" length="5000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">terratupy-esperancar-faixa-8</guid>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>8</itunes:episode>
+    </item>
+
+    <!-- Faixa 9 -->
+    <item>
+      <title>Estrela da manhã</title>
+      <description>Faixa 9 do álbum Esperançar</description>
+      <enclosure url="https://pub-b92b8c6e7c4d4c40a3bc206b40c30d14.r2.dev/Esperan%C3%A7ar/9-%20Estrela%20da%20manha%CC%83.mp3" length="5000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">terratupy-esperancar-faixa-9</guid>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>9</itunes:episode>
+    </item>
+
+    <!-- Faixa 10 -->
+    <item>
+      <title>Abro a janela</title>
+      <description>Faixa 10 do álbum Esperançar</description>
+      <enclosure url="https://pub-b92b8c6e7c4d4c40a3bc206b40c30d14.r2.dev/Esperan%C3%A7ar/10-%20Abro%20a%20janela.mp3" length="5000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">terratupy-esperancar-faixa-10</guid>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>10</itunes:episode>
+    </item>
+  </channel>
+</rss>
